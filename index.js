@@ -12,7 +12,7 @@ while (number > 0) {
     console.log(number);
     console.log(result); 
     
-    num.unshift(result)
+    num.unshift(result) // unshift adds to the start of the array
 }
 
 console.log(num);
